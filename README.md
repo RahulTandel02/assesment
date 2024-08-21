@@ -1,3 +1,5 @@
+NOTE: There two branchs for frontend and backend repectivelty, Please take pull from both the branch
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
