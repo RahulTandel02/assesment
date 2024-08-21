@@ -1,4 +1,4 @@
-**NOTE: There two branchs for frontend and backend repectivelty, Please take pull from both the branch**
+**NOTE: There two branchs for frontend and backend respectively, Please take pull from both the branch**
 
 # Frontend
 
